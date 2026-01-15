@@ -1,6 +1,6 @@
 // ===== CONFIGURAÇÃO =====
     const meta = 2500;
-    const arrecadado = 50; // <<< ATUALIZE APENAS ESTE VALOR
+    const arrecadado = 51; // <<< ATUALIZE APENAS ESTE VALOR
     const dataFinal = new Date("2026-11-10"); // <<< DATA LIMITE REAL
 
     // ===== PROGRESSO =====
@@ -39,4 +39,5 @@
       contador.innerText = "⏳ Último dia para ajudar";
     } else {
       contador.innerText = "⏳ Prazo final atingido";
+
     }
