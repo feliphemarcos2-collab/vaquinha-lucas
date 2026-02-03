@@ -1,5 +1,5 @@
 // ===== CONFIGURAÇÃO =====
-    const meta = 2500;
+    const meta = 2775.52;
     const arrecadado = 200; // <<< ATUALIZE APENAS ESTE VALOR
     const dataFinal = new Date("2026-11-10"); // <<< DATA LIMITE REAL
 
@@ -41,4 +41,5 @@
       contador.innerText = "⏳ Prazo final atingido";
 
     }
+
 
